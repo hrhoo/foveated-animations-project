@@ -1,5 +1,5 @@
 # NOTE - WIP
-This current `README.md` as well as the Wiki and Github Pages are currently a **Work In Progress**. Finalized versions for all of these are expected by the 6th of May 2025 the latest, before the I3D conference. 
+This current `README.md` as well as the Wiki and Github Pages are currently a **Work In Progress**. Finalized versions with extra technical details are expected sometime in June 2025 the latest.
 
 # Foveated Animations in the Context of Crowd Simulations.
 This repository holds the Unity Prototype used in the "Foveated Animations for Efficient Crowd Simulation" paper, authored by Florin-Vladimir Stancu, Rafael Kuffner Dos Anjos and Tomer Weiss on 05/2025.
@@ -22,10 +22,5 @@ To run this project:
 
 Upon loading this project with Unity, you can navigate to the `Assets > Scenes` to inspect all the scenes outlined within the project paper, with all necessary scripts attached and pre-set. You may run the scenes as they are, or change the settings of the "Focus Point Sphere" script attached to the "Protagonist" agents in each scene to experience different levels of foveation.
 
-## User Test Video
-
-If you only wish to see the foveation in effect, rather than run the project locally, you can instead check the user test video. This video includes all 4 scenes used during the original user study ran in March 2024.
-
-You may find the video on:
-- Youtube (Compressed): https://youtu.be/0TlGL1wiBAY
-- OneDrive (Uncompressed - Requires download for highest quality): https://1drv.ms/v/s!AocnOYwxBpbGhdwbHGvkhCyv--w0fw?e=WmXz6Z
+## Videos
+If you are interested in seeing the foveation effect in practice, we suggest you check out the [official project page](https://lfirsl.github.io/foveated-animations-project/), with examples and explanations of the foveation effects.
