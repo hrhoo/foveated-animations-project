@@ -37,7 +37,8 @@ document.addEventListener("DOMContentLoaded", function () {
   <a href="{{ site.baseurl }}/assets/pdf/Foveated_Animations_for_Efficient_Crowd_Simulation.pdf" target="_blank" rel="noopener">
   Preprint
   </a> |
-  <a href="https://github.com/lFirsl/foveated-animations-project" target="_blank" rel="noopener">Unity Prototype</a>
+  <a href="https://github.com/lFirsl/foveated-animations-project" target="_blank" rel="noopener">Unity Prototype</a> |
+  Publication by <a href="https://i3dsymposium.org/2025/"> I3D 2025 </a> (including BibTex) soon
 </p>
 
 <video autoplay preload="auto" muted loop playsinline style="max-width: 100%; height: auto;">
