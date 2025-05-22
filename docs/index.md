@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
   Preprint
   </a> |
   <a href="https://github.com/lFirsl/foveated-animations-project" target="_blank" rel="noopener">Unity Prototype</a> |
-  Publication by <a href="https://i3dsymposium.org/2025/"> I3D 2025 </a> (including BibTex) soon
+  Publication by <a href="https://i3dsymposium.org/2025/"> I3D 2025</a> (including BibTex) soon
 </p>
 
 <video autoplay preload="auto" muted loop playsinline style="max-width: 100%; height: auto;">
@@ -46,8 +46,13 @@ document.addEventListener("DOMContentLoaded", function () {
   Your browser does not support the video tag.
 </video>
 
+# Presentation Video - _Pending_
 
-# Presentation Video
+A presentation of this project has been made at <a href="https://i3dsymposium.org/2025/">I3D 2025</a> on the 8th of May 2025.
+A recording of this presentation, as well as the official publication of the paper, are now pending from the conference committee. This website will be updated
+to include both as soon as they are available.
+
+# Introduction Video
 <div style="text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
     <iframe 
