@@ -34,11 +34,12 @@ document.addEventListener("DOMContentLoaded", function () {
   <li><a href="https://github.com/rafaelkuffner" target="_blank" rel="noopener">Rafael Kuffner Dos Anjos</a>, University of Leeds, United Kingdom</li>
 </ul>
 <p style="text-align: center;">
+  <a href="https://doi.org/10.1145/3728306" target="_blank" rel="noopener"> Publication </a> |
   <a href="{{ site.baseurl }}/assets/pdf/Foveated_Animations_for_Efficient_Crowd_Simulation.pdf" target="_blank" rel="noopener">
   Preprint
   </a> |
   <a href="https://github.com/lFirsl/foveated-animations-project" target="_blank" rel="noopener">Unity Prototype</a> |
-  Publication by <a href="https://i3dsymposium.org/2025/"> I3D 2025</a> (including BibTex) soon
+  <a href="#bibtex"> BibTex </a>
 </p>
 
 <video autoplay preload="auto" muted loop playsinline style="max-width: 100%; height: auto;">
@@ -236,6 +237,50 @@ to allow for observation of the foveation and eye-tracking taking place, but in 
   Your browser does not support the video tag.
 </video>
 
+## BibTex
+<p>
+  <a href="#" onclick="copyBibTex(); return false;">📋 Copy</a> |
+  <a href="{{ site.baseurl }}/assets/foveated_animations.bib" download>⬇️ Download</a>
+</p>
+<pre id="bibtex-main" style="background-color: #f0ffff; border: 1px solid #ccc; padding: 1em; overflow-x: auto;">
+@article{10.1145/3728306,
+    author = {Stancu, Florin-Vladimir and Weiss, Tomer and Kuffner dos Anjos, Rafael},
+    title = {Foveated Animations for Efficient Crowd Simulation},
+    year = {2025},
+    issue_date = {May 2025},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {8},
+    number = {1},
+    url = {https://doi.org/10.1145/3728306},
+    doi = {10.1145/3728306},
+    journal = {Proc. ACM Comput. Graph. Interact. Tech.},
+    month = may,
+    articleno = {9},
+    numpages = {14},
+    keywords = {Perception, Animation, Foveated techniques, Virtual Reality}
+}
+</pre>
+
+<script>
+function copyBibTex() {
+  const bib = document.getElementById("bibtex-main");
+  const range = document.createRange();
+  range.selectNodeContents(bib);
+  const selection = window.getSelection();
+  selection.removeAllRanges();
+  selection.addRange(range);
+
+  try {
+    document.execCommand("copy");
+    alert("BibTeX copied to clipboard!");
+  } catch (err) {
+    alert("Failed to copy. Please copy manually.");
+  }
+
+  selection.removeAllRanges();
+}
+</script>
 
 
 <script>
