@@ -4,6 +4,8 @@ This current `README.md` as well as the Wiki and Github Pages are currently a **
 # Foveated Animations in the Context of Crowd Simulations.
 This repository holds the Unity Prototype used in the "Foveated Animations for Efficient Crowd Simulation" paper, authored by Florin-Vladimir Stancu, Rafael Kuffner Dos Anjos and Tomer Weiss on 05/2025.
 
+DOI Link: https://doi.org/10.1145/3728306
+
 ## What are Foveated Animations?
 Similar to [Foveated Rendering](https://en.wikipedia.org/wiki/Foveated_rendering), Foveated Animations aim to reduce the quality of animations in the periphery of a user's field of view in such a way that the reduction in quality goes unnoticed by the user. The aim of this process is to save on computing power and allow a machine to run the same scene with an increased framerate without sacricifing user experience.
 
