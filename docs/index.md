@@ -34,12 +34,10 @@ document.addEventListener("DOMContentLoaded", function () {
   <li><a href="https://github.com/rafaelkuffner" target="_blank" rel="noopener">Rafael Kuffner Dos Anjos</a>, University of Leeds, United Kingdom</li>
 </ul>
 <p style="text-align: center;">
-  <a href="https://doi.org/10.1145/3728306" target="_blank" rel="noopener"> Publication </a> |
-  <a href="{{ site.baseurl }}/assets/pdf/Foveated_Animations_for_Efficient_Crowd_Simulation.pdf" target="_blank" rel="noopener">
-  Preprint
-  </a> |
+  <a href="https://doi.org/10.1145/3728306" target="_blank" rel="noopener"> Publication</a> |
+  <a href="{{ site.baseurl }}/assets/pdf/Foveated_Animations_for_Efficient_Crowd_Simulation.pdf" target="_blank" rel="noopener">Preprint</a> |
   <a href="https://github.com/lFirsl/foveated-animations-project" target="_blank" rel="noopener">Unity Prototype</a> |
-  <a href="#bibtex"> BibTex </a>
+  <a href="#bibtex">BibTex</a>
 </p>
 
 <video autoplay preload="auto" muted loop playsinline style="max-width: 100%; height: auto;">
@@ -50,8 +48,8 @@ document.addEventListener("DOMContentLoaded", function () {
 # Presentation Video - _Pending_
 
 A presentation of this project has been made at <a href="https://i3dsymposium.org/2025/">I3D 2025</a> on the 8th of May 2025.
-A recording of this presentation, as well as the official publication of the paper, are now pending from the conference committee. This website will be updated
-to include both as soon as they are available.
+A recording of this presentation is now pending from the conference committee. This website will be updated to include it as soon
+as it is available.
 
 # Introduction Video
 <div style="text-align: center;">
