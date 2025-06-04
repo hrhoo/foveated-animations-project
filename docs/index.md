@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <a href="https://doi.org/10.1145/3728306" target="_blank" rel="noopener"> Publication</a> |
   <a href="{{ site.baseurl }}/assets/pdf/Foveated_Animations_for_Efficient_Crowd_Simulation.pdf" target="_blank" rel="noopener">Preprint</a> |
   <a href="https://github.com/lFirsl/foveated-animations-project" target="_blank" rel="noopener">Unity Prototype</a> |
+  <a href="https://link.growkudos.com/1e2y4kf0074" target="_blank" rel="noopener"> Kudos Article</a> |
   <a href="#bibtex">BibTex</a>
 </p>
 
@@ -66,6 +67,9 @@ as it is available.
   </div>
 </div>
 # Abstract
+
+_**Note**: For a quick, plain language explanation please check out the 
+<a href="https://link.growkudos.com/1e2y4kf0074" target="_blank" rel="noopener"> Kudos Article</a>._
 
 Foveated rendering techniques have seen recent development with the advent of commercial head-mounted
 displays with eye-tracking capabilities. 
