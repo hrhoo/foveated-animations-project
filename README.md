@@ -1,6 +1,3 @@
-# NOTE - WIP
-This current `README.md` as well as the Wiki and Github Pages are currently a **Work In Progress**. Finalized versions with extra technical details are expected sometime in June 2025 the latest.
-
 # Foveated Animations in the Context of Crowd Simulations.
 This repository holds the Unity Prototype used in the "Foveated Animations for Efficient Crowd Simulation" paper, authored by Florin-Vladimir Stancu, Rafael Kuffner Dos Anjos and Tomer Weiss on 05/2025.
 
