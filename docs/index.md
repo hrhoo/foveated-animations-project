@@ -46,11 +46,24 @@ document.addEventListener("DOMContentLoaded", function () {
   Your browser does not support the video tag.
 </video>
 
-# Presentation Video - _Pending_
+# I3D Presentation Video
 
 A presentation of this project has been made at <a href="https://i3dsymposium.org/2025/">I3D 2025</a> on the 8th of May 2025.
-A recording of this presentation is now pending from the conference committee. This website will be updated to include it as soon
-as it is available.
+A recording of this presentation can be seen below from the official I3D youtube channel.
+
+<div style="text-align: center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe 
+      src="https://www.youtube-nocookie.com/embed/_9JBBiYItuY?si=ZCI3HTOi7l9eN4mY&amp;start=1470" 
+      title="YouTube video player"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
+  </div>
+</div>
 
 # Introduction Video
 <div style="text-align: center;">
